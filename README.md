@@ -10,7 +10,7 @@ Coursera 上北大机组课第三周作业
 3. 每输入一个字符，即时转换并在屏幕上显示，
 4. 支持反复输入，直到按“?”键结束程序。
 
-|1 | 2|3 | 4| 5| 6| 7|8 | 9|
+|1 | 2|3 | 4| 5| 6| 7|8 | |
 |:-:|:---------:|:-:|:---------:|:-:|:---------:|:-:|:---------:|:-:|:-------:|
 |A	|Alpha	    |N	|November	|1	|First  	|a	|alpha	    |n	|november
 |B	|Bravo	    |O	|Oscar	    |2	|Second	    |b	|bravo	    |o	|oscar
@@ -27,6 +27,10 @@ Coursera 上北大机组课第三周作业
 |M	|Mary	    |Z	|Zulu		||              |m	|mary	    |z	|zulu
 
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ## 第二题：字符串查找比较
 
