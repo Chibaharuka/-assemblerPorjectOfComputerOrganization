@@ -10,8 +10,8 @@ Coursera 上北大机组课第三周作业
 3. 每输入一个字符，即时转换并在屏幕上显示，
 4. 支持反复输入，直到按“?”键结束程序。
 
-||||||||||
-| - |:---------:|:-:|:---------:|:-:|:---------:|:-:|:---------:|:-:|-------:|
+| | | | | | | | | |
+|:-:|:---------:|:-:|:---------:|:-:|:---------:|:-:|:---------:|:-:|:-------:|
 |A	|Alpha	    |N	|November	|1	|First  	|a	|alpha	    |n	|november
 |B	|Bravo	    |O	|Oscar	    |2	|Second	    |b	|bravo	    |o	|oscar
 |C	|China	    |P	|Paper	    |3	|Third	    |c	|china	    |p	|paper
@@ -25,7 +25,6 @@ Coursera 上北大机组课第三周作业
 |K	|Kilo	    |X	|X-ray	    ||              |k	|kilo	    |x	|x-ray
 |L	|Lima	    |Y	|Yankee		||              |l	|lima	    |y	|yankee
 |M	|Mary	    |Z	|Zulu		||              |m	|mary	    |z	|zulu
-||||||||||
 
 ## 第二题：字符串查找比较
 
@@ -47,12 +46,12 @@ Coursera 上北大机组课第三周作业
 
 提示：为避免歧义，字符串内不包含"?"符号
 
-`abcdefgh`
+   `abcdefgh`
 
-`a`
+   `a`
 
- `Success! Location: 1`
+   `Success! Location: 1`
    
-`x`
+   `x`
     
-`Fail!`
+   `Fail!`
