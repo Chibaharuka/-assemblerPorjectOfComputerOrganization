@@ -10,27 +10,23 @@ Coursera 上北大机组课第三周作业
 3. 每输入一个字符，即时转换并在屏幕上显示，
 4. 支持反复输入，直到按“?”键结束程序。
 
-|1 | 2|3 | 4| 5| 6| 7|8 | |
-|:-:|:---------:|:-:|:---------:|:-:|:---------:|:-:|:---------:|:-:|:-------:|
-|A	|Alpha	    |N	|November	|1	|First  	|a	|alpha	    |n	|november
-|B	|Bravo	    |O	|Oscar	    |2	|Second	    |b	|bravo	    |o	|oscar
-|C	|China	    |P	|Paper	    |3	|Third	    |c	|china	    |p	|paper
-|D	|Delta	    |Q	|Quebec	    |4	|Fourth	    |d	|delta	    |q	|quebec
-|E	|Echo	    |R	|Research	|5	|Fifth  	|e	|echo	    |r	|research
-|F	|Foxtrot	|S	|Sierra	    |6	|Sixth  	|f	|foxtrot	|s	|sierra
-|G	|Golf	    |T	|Tango	    |7	|Seventh	|g	|golf	    |t	|tango
-|H	|Hotel	    |U	|Uniform	|8	|Eighth	    |h	|hotel	    |u  |uniform
-|I	|India	    |V	|Victor	    |9	|Ninth  	|i	|india	    |v	|victor
-|J	|Juliet	    |W	|Whisky	    |0	|zero	    |j	|juliet	    |w	|whisky
-|K	|Kilo	    |X	|X-ray	    ||              |k	|kilo	    |x	|x-ray
-|L	|Lima	    |Y	|Yankee		||              |l	|lima	    |y	|yankee
-|M	|Mary	    |Z	|Zulu		||              |m	|mary	    |z	|zulu
+输入|输出|输入|输出|输入|输出|输入|输出|输入|输出
+:-: | :---------: | :-: | :---------: | :-: | :---------: | :-: | :---------: | :-: | 
+A	|Alpha	    |N	|November	|1	|First  	|a	|alpha	    |n	|november
+B	|Bravo	    |O	|Oscar	    |2	|Second	    |b	|bravo	    |o	|oscar
+C	|China	    |P	|Paper	    |3	|Third	    |c	|china	    |p	|paper
+D	|Delta	    |Q	|Quebec	    |4	|Fourth	    |d	|delta	    |q	|quebec
+E	|Echo	    |R	|Research	|5	|Fifth  	|e	|echo	    |r	|research
+F	|Foxtrot	|S	|Sierra	    |6	|Sixth  	|f	|foxtrot	|s	|sierra
+G	|Golf	    |T	|Tango	    |7	|Seventh	|g	|golf	    |t	|tango
+H	|Hotel	    |U	|Uniform	|8	|Eighth	    |h	|hotel	    |u  |uniform
+I	|India	    |V	|Victor	    |9	|Ninth  	|i	|india	    |v	|victor
+J	|Juliet	    |W	|Whisky	    |0	|zero	    |j	|juliet	    |w	|whisky
+K	|Kilo	    |X	|X-ray	    ||              |k	|kilo	    |x	|x-ray
+L	|Lima	    |Y	|Yankee		||              |l	|lima	    |y	|yankee
+M	|Mary	    |Z	|Zulu		||              |m	|mary	    |z	|zulu
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 ## 第二题：字符串查找比较
 
